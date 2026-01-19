@@ -1,0 +1,27 @@
+site_name: "Currículum Vitae - Stefanie Tavares dos Reis"
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: pt-BR
+  palette:
+    - scheme: default
+      primary: pink
+      accent: blue
+  features:
+    - navigation.top
+    - toc.integrate
+  generator: false
+    
+markdown_extensions:
+  - md_in_html
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.magiclink
+
+plugins:
+  - search
+
+nav:
+  - Currículum: index.md
+
