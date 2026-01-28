@@ -275,7 +275,7 @@
       <div class="flex flex-col md:flex-row gap-4 no-print border-t pt-6 md:pt-8">
           <div class="bg-gray-100 border border-gray-300 p-4 rounded-lg text-center flex-1 flex flex-col items-center justify-center">
             <h2 class="text-md font-bold text-gray-800 mb-3">📄 Baixar PDF</h2>
-            <a href="Curriculum-Vanderli.pdf" class="btn-action">⬇️ Download</a>
+            <a href="curriculum-vanderli-2026.pdf "class="btn-action">⬇️ Download</a>
           </div>
           <div class="bg-gray-100 border border-gray-300 p-4 rounded-lg text-center flex-1 flex flex-col items-center justify-center">
             <h2 class="text-md font-bold text-gray-800 mb-3">🖨️ Imprimir</h2>
